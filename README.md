@@ -3,4 +3,4 @@ This is a small Project where I've used servlet API to redirect the page into go
 
 > Servlet sendRedirect() method
 
-** First Page ** 
+** First Page 
